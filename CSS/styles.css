@@ -1,0 +1,25 @@
+.header_contenedor{
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    background: rgb(255,0,0);
+background: linear-gradient(90deg, rgba(255,0,0,1) 45%, rgba(0,212,255,1) 100%, rgba(27,102,4,0.927608543417367) 100%, rgba(0,46,55,1) 100%, rgba(0,93,112,1) 100%);
+}
+
+.header_contenedor h1{
+    background-color: dark;
+    color: aqua;
+}
+
+.items{
+    margin-top: 0px;
+    display: flex;
+    list-style: none;
+
+}
+
+.items nav{
+    align-items: flex-end;
+}
+
+
